@@ -33,7 +33,6 @@
     - Accesibilidad mínima: `alt` en imágenes, foco visible, buen contraste.
 
     **Repo:** https://github.com/sebakhazzaka2/mercado-frutas
-**Demo:** https://sebakhazzaka2.github.io/mercado-frutas/
 
     ---
     Autor: **Sebastián Khazzaka** (ORT Uruguay)  
