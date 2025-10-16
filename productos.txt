@@ -1,0 +1,3 @@
+Banana@Amarilla@Fruta@Kilogramos@Banana.jpg@
+Manzana@Roja@Fruta@Kilogramos@Manzana.jpg@
+Aji@Verde@Verdura@Unidad@Aji.jpg@
