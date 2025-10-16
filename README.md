@@ -32,8 +32,8 @@
     - Diseño **responsive** (mobile-first).
     - Accesibilidad mínima: `alt` en imágenes, foco visible, buen contraste.
 
-    **Repo:** https://github.com/USUARIO/mercado-frutas
-**Demo:** https://USUARIO.github.io/mercado-frutas/
+    **Repo:** https://github.com/sebakhazzaka2/mercado-frutas
+**Demo:** https://sebakhazzaka2.github.io/mercado-frutas/
 
     ---
     Autor: **Sebastián Khazzaka** (ORT Uruguay)  
